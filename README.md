@@ -7,8 +7,8 @@ Over the years, I've learned so much for so many key individuals.  Here's a plac
 ## Topics
 ### Software Engineering
 ### Project Management
-####Mythical Man Month
+[Mythical Man Month](MythicalManMonth.pdf)
 Insight: Adding manpower to late project makes it later.  
-####Agile@Scale / Scaled Agile Framework (SAFe)
+Agile@Scale / Scaled Agile Framework (SAFe)
 
 ## FAQ
