@@ -7,12 +7,12 @@ Over the years, I've learned so much from so many key individuals.  Here's a pla
 ## Topics
 ### Doing Good
 [Better Angels of our Nature](https://www.nytimes.com/2011/10/06/books/review/the-better-angels-of-our-nature.html)
-### Software Development
-### Software Engineering
-[Brief History of the Internet](ISOC)
 ### Project Management
 [Mythical Man Month](MythicalManMonth.pdf) Insight: Adding manpower to late project makes it later.  
 Agile@Scale / Scaled Agile Framework (SAFe)
+### Software Development
+### Software Engineering
+[Brief History of the Internet](ISOC)
 ### Computing Luminaries
 Key contributors to the field of computing
 1. Gorden Bell
