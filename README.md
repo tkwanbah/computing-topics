@@ -11,8 +11,16 @@ Over the years, I've learned so much for so many key individuals.  Here's a plac
 ### Software Engineering
 [Brief History of the Internet](ISOC)
 ### Project Management
-[Mythical Man Month](MythicalManMonth.pdf)
-Insight: Adding manpower to late project makes it later.  
+[Mythical Man Month](MythicalManMonth.pdf) Insight: Adding manpower to late project makes it later.  
 Agile@Scale / Scaled Agile Framework (SAFe)
+### Computing Luminaries
+Key contributors to the field of computing
+Gorden Bell
+Doug Engelbart - Mother of All Demos
+Robert E. Kahn
+Alan Kay.  Object oriented programming and user interfaces.  
+Leonard Kleinrock.  Packet switching theory.  Use packets rather than circuits for communications.
+Donald Knuth.  Art of Computer Programming.  Analysis of algorithms.
+Linus Torvalds.  Linux creator.  Git creator.
 
 ## FAQ
