@@ -15,12 +15,12 @@ Over the years, I've learned so much for so many key individuals.  Here's a plac
 Agile@Scale / Scaled Agile Framework (SAFe)
 ### Computing Luminaries
 Key contributors to the field of computing
-Gorden Bell
-Doug Engelbart - Mother of All Demos
-Robert E. Kahn
-Alan Kay.  Object oriented programming and user interfaces.  
-Leonard Kleinrock.  Packet switching theory.  Use packets rather than circuits for communications.
-Donald Knuth.  Art of Computer Programming.  Analysis of algorithms.
-Linus Torvalds.  Linux creator.  Git creator.
+1. Gorden Bell
+1. Doug Engelbart - Mother of All Demos
+1. Robert E. Kahn
+1. Alan Kay.  Object oriented programming and user interfaces.  
+1. Leonard Kleinrock.  Packet switching theory.  Use packets rather than circuits for communications.
+1. Donald Knuth.  Art of Computer Programming.  Analysis of algorithms.
+1. Linus Torvalds.  Linux creator.  Git creator.
 
 ## FAQ
