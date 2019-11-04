@@ -15,8 +15,10 @@ Over the years, I've learned so much from so many key individuals.  Here's a pla
 [Mythical Man Month](MythicalManMonth.pdf) Insight: Adding manpower to late project makes it later.  
 Agile@Scale / Scaled Agile Framework (SAFe)
 ### Software Development
+[Joel on Software](https://www.joelonsoftware.com/) is a great set of articles about software development.  He's the guy behind Trello, Stack Overflow.  
 ### Software Engineering
 [Brief History of the Internet](ISOC)
+### Web Development
 ### Computing Luminaries
 Key contributors to the field of computing
 1. Gorden Bell
@@ -26,5 +28,6 @@ Key contributors to the field of computing
 1. Leonard Kleinrock.  Packet switching theory.  Use packets rather than circuits for communications.
 1. Donald Knuth.  Art of Computer Programming.  Analysis of algorithms.
 1. Linus Torvalds.  Linux creator.  Git creator.
+1. Joel Spolksy.  Trello creator.  Good writer about key topics in software.
 
 ## FAQ
