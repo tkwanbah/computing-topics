@@ -9,6 +9,7 @@ Over the years, I've learned so much from so many key individuals.  Here's a pla
 [Better Angels of our Nature](https://www.nytimes.com/2011/10/06/books/review/the-better-angels-of-our-nature.html)
 ### Security
 ### Software Development
+[The C Programming Language](k&r.pdf) Also known as K&R, this book was written by Brian Kernighan and Dennis Ritchie.  It was one of my first programming languages and gave me a fundamental understanding of pointers, in particular.
 ### Software Engineering
 [Brief History of the Internet](ISOC)
 ### Project Management
